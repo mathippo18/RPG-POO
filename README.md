@@ -12,7 +12,7 @@ and install phpmyadmin and set a new database settings:
 
     servername = localhost
     username = root
-    password = ""
+    password = "root"
     dbname = hero_game
 
 To run test just run command, ex:
